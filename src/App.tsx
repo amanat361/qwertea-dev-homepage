@@ -153,7 +153,7 @@ export function App() {
           <p>
             © {new Date().getFullYear()} qwertea.dev • All services running on
             Cloudflare tunnels •{" "}
-            <a href="https://github.com/amanat361/qwertea-dev-homepage">
+            <a href="https://github.com/amanat361/qwertea-dev-homepage" className="underline">
               View on Github
             </a>
           </p>
